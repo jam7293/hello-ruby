@@ -2,3 +2,4 @@
 # ruby 1.rb
 # into your command-line interface.
 
+puts "Hello, world"
